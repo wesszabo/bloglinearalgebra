@@ -13,8 +13,8 @@
             speed: 1000,
 			easing: '',
 			changeText: 0,
-			showText: '+',
-			hideText: '-'
+			showText: 'Megnyit',
+			hideText: 'Bezár'
 			
         };
         var options = $.extend(defaults, options);
