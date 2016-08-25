@@ -12,7 +12,7 @@
         var defaults = {
             speed: 1000,
 			easing: '',
-			changeText: 1,
+			changeText: 0,
 			showText: 'Megnyit',
 			hideText: 'Bezár'
 			
