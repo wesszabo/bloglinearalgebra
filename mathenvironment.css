@@ -1,0 +1,162 @@
+.pbox {
+  margin-left:auto;
+  margin-right:auto;
+  width:95%;
+  padding: 8px 8px 10px 8px;
+  font-size: large;
+  background-color: #FAFAEC;
+}
+.TheoremBox {
+  margin-left:auto;
+  margin-right:auto;
+  width:95%;
+  padding:10px;
+  border:2px solid gray;
+  /*margin:2px;*/
+  background-color: SkyBlue;
+  font-style: italic;
+  font-size: large;
+}
+.ProofBox {
+  margin-left:auto;
+  margin-right:auto;
+  width:95%;
+  padding:10px;
+  border:2px solid gray;
+  /*margin:2px;*/
+  background-color: PapayaWhip;
+  font-style: normal;
+  font-size: large;
+}
+.thm  {
+  display: inline;
+  margin-right: 5px;
+  text-align:left;
+  font-style: normal;
+  text-decoration: underline;
+  font-weight: bold;
+  background-color: FloralWhite;
+  font-size: large;
+}
+.ExerciseBox {
+  margin-left:auto;
+  margin-right:auto;
+  width:95%;
+  padding:10px;
+  border:2px solid gray;
+  /*margin:2px;*/
+  background-color: LightGreen;
+  font-style: normal;
+  font-size: large;
+}
+.LemmaBox {
+  margin-left:auto;
+  margin-right:auto;
+  width:95%;
+  padding:10px;
+  border:2px solid gray;
+  /*margin:2px;*/
+  background-color: DarkKhaki;
+  font-style: italic;
+  font-size: large;
+}
+.DefinitionBox {
+  margin-left:auto;
+  margin-right:auto;
+  width:95%;
+  padding:10px;
+  border:2px solid gray;
+  /*margin:2px;*/
+  background-color: Moccasin;
+  font-style: normal;
+  font-size: large;
+}
+.LargeFontBox {
+  margin-left:auto;
+  margin-right:auto;
+  width:95%;
+  padding:10px;
+  border:2px solid gray;
+  /*margin:2px;*/
+  background-color: White;
+  font-style: normal;
+  font-size: large;
+}
+.LargeFont {
+  margin-left:auto;
+  margin-right:auto;
+  padding:10px;
+  font-size: large;
+}
+.button {
+  font-size: x-large;
+  padding: 3px;
+  margin: 0;
+  border:2px solid black;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  background-color: buttonface;
+  text-decoration: none;
+}
+/*rounded corners of box*/
+.corner1 {
+  border: 1px solid red;
+  -webkit-border-radius: 20px;
+  border-radius: 20px;
+  background: #FFFFFF;
+  padding: 5px; 
+  width: auto;
+  height: auto; 
+}
+/*
+/* Image with Caption
+*/
+div.figure {
+  width: 48%;
+  border: 1px black solid;
+  padding: 5px;
+}
+#left {
+	float: left;
+}
+#right {
+	float: right;
+}
+div.figure p {
+  text-align: left;
+  font-style: italic;
+  text-indent: 0;
+  margin-top: -1px;
+  margin-bottom: -1px;
+}
+img.scaled {
+  width: 100%;
+}
+.jump-link {
+  margin-left:auto;
+  margin-right:auto;
+  padding:10px;
+  font-size: large;	
+}
+/*
+/* show-hide styling
+*/
+#slidingDiv_1, #slidingDiv_2, #slidingDiv_3, #slidingDiv_4, #slidingDiv_5, #slidingDiv_6, #slidingDiv_7, #slidingDiv_8, #slidingDiv_9, #slidingDiv_10, #slidingDiv_11, #slidingDiv_12 {
+	height:auto;
+	background-color: #99CCFF;
+	padding:20px;
+	margin-top: 0px;
+	border-bottom:5px solid #3399FF;
+	display:none;
+}
+
+/*
+ *  Start with the steps being hidden in math eq
+ */
+#Step1, #Step2, #Step3, #Step4, #Step5, #Step6, #Step7, #Step8, #Step9, #Step10, #Step11, #Step12, #Step13, #Step14, #Step15, #Step16 {
+  visibility: hidden;
+}
+#SStep1, #SStep2, #SStep3, #SStep4, #SStep5, #SStep6, #SStep7, #SStep8, #SStep9, #SStep10, #SStep11, #SStep12, #SStep13, #SStep14, #SStep15, #SStep16 {
+  visibility: hidden;
+}
+/*
