@@ -10,11 +10,11 @@
 
 		//default vars for the plugin
         var defaults = {
-            speed: 1000,
+            speed: 800,
 			easing: '',
 			changeText: 0,
-			showText: 'Megnyit',
-			hideText: 'Bezár'
+			showText: 'Megnyitás',
+			hideText: 'Bezárás'
 			
         };
         var options = $.extend(defaults, options);
