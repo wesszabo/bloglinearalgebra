@@ -57,6 +57,10 @@ header h3 {
   font-size: large;	
 }
 
+.eloadas {
+	background-color: ivory;
+}
+
 a {
   color: #267;
   text-decoration: underline;
