@@ -41,6 +41,15 @@ header h3 {
  padding: 2px 50px 1px 10px;
 }
 
+.weekbox {
+   margin-left:auto;
+  margin-right:auto;
+  width:95%;
+  border:2px solid gray;
+  /*margin:2px;*/
+  background-color: LightGreen;
+}
+
 a {
   color: #267;
   text-decoration: underline;
