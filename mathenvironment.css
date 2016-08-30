@@ -147,7 +147,7 @@ a:hover {
 }
 .button {
   font-size: x-large;
-  padding: 3px;
+  padding: 0px;
   margin: 0;
   border:2px solid black;
   -webkit-border-radius: 6px;
