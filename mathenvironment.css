@@ -42,11 +42,8 @@ header h3 {
 }
 
 .weekBox {
-/*   margin-left:auto;
-  margin-right:auto; */
   width:95%;
   border:2px solid gray;
-  /*margin:2px;*/
   background-color: LightGreen;
 }
 
@@ -161,7 +158,7 @@ a:hover {
   -webkit-border-radius: 20px;
   border-radius: 20px;
   background: #FFFFFF;
-  padding: 5px; 
+  padding: 1px; 
   width: auto;
   height: auto; 
 }
