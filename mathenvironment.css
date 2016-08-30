@@ -7,9 +7,15 @@ body {
 header, 
 section, 
 article, 
-.aside, 
 footer {
   display: block;
+}
+
+section {
+  float: left;
+  padding: 5px 0;
+  position: relative;
+  width: 70%
 }
 
 header {
@@ -45,12 +51,7 @@ a:hover {
 }
 
 
-section {
-  float: left;
-  padding: 5px 0;
-  position: relative;
-  width: 70%
-}
+
 
 
 /**********************************/
