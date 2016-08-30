@@ -42,8 +42,8 @@ header h3 {
 }
 
 .weekBox {
-   margin-left:auto;
-  margin-right:auto;
+/*   margin-left:auto;
+  margin-right:auto; */
   width:95%;
   border:2px solid gray;
   /*margin:2px;*/
