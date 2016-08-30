@@ -24,6 +24,12 @@ header h1 {
 header h2 {
  font-size: 1.8em;
  padding: 10px 50px 10px 50px;
+ display: inline;
+  text-align:left;
+  font-style: normal;
+  text-decoration: underline;
+  font-weight: bold;
+  background-color: FloralWhite;
 }
 
 header h3 {
