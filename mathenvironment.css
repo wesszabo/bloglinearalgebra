@@ -18,12 +18,12 @@ header {
 
 header h1 {
  font-size: 2.5em;
- padding: 20px 50px 10px 50px;
+ padding: 20px 50px 10px 5px;
 }
 
 header h2 {
  font-size: 1.8em;
- padding: 10px 50px 10px 50px;
+ padding: 10px 50px 10px 5px;
  display: inline;
   text-align:left;
   font-style: normal;
@@ -32,7 +32,7 @@ header h2 {
 
 header h3 {
  font-size: 1.7em;
- padding: 2px 50px 1px 50px;
+ padding: 2px 50px 1px 10px;
 }
 
 a {
