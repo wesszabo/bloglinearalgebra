@@ -207,10 +207,10 @@ img.scaled {
 */
 #slidingDiv_1, #slidingDiv_2, #slidingDiv_3, #slidingDiv_4, #slidingDiv_5, #slidingDiv_6, #slidingDiv_7, #slidingDiv_8, #slidingDiv_9, #slidingDiv_10, #slidingDiv_11, #slidingDiv_12 {
 	height:auto;
-	background-color: #99CCFF;
+	background-color: LightGreen;
 	padding:20px;
 	margin-top: 0px;
-	border-bottom:5px solid #3399FF;
+	border-bottom:5px solid LightGreen;
 	display:none;
 }
 
