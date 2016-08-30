@@ -1,6 +1,6 @@
 body {
   font: .8125em/1.5 Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
-  background: ivory;
+  background-color: ivory;
   color: #333;
 }
 
@@ -84,16 +84,7 @@ section {
   font-style: normal;
   font-size: large;
 }
-.thm  {
-  display: inline;
-  margin-right: 5px;
-  text-align:left;
-  font-style: normal;
-  text-decoration: underline;
-  font-weight: bold;
-  background-color: FloralWhite;
-  font-size: large;
-}
+
 .ExerciseBox {
   margin-left:auto;
   margin-right:auto;
