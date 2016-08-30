@@ -58,7 +58,7 @@ header h3 {
 }
 
 .eloadas {
-	background-color: ivory;
+	background-color: ivory !important;
 }
 
 a {
