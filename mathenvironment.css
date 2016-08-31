@@ -13,12 +13,12 @@ footer {
 
 main {
   float: left;
+   width: 70%;
 }
 
 section {
   padding: 5px 0;
   position: relative;
-  width: 70%
 }
 
 header {
@@ -76,7 +76,7 @@ a:hover {
 .tools {
   float: right;
   padding: 5px 0;
-  width: auto;
+  width: 25%;
   border:2px solid gray;
 }
 
