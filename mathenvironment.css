@@ -75,7 +75,7 @@ a:hover {
 
 .tools {
   float: right;
-  margin-top: 40px;
+  margin-top: 20px;
   width: 25%;
   /*border:2px solid gray; */
 }
@@ -94,6 +94,11 @@ a:hover {
 .thm {
   border:2px solid gray !important;
   background-color: SkyBlue !important; 
+}
+
+.example {
+  border:2px solid gray !important;
+  background-color: Coral !important; 
 }
 
 .fig {
