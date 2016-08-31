@@ -70,7 +70,13 @@ a:hover {
   color: #722;
 }
 
-
+.tools {
+  float: right;
+  padding: 5px 0;
+  position: relative;
+  width: 25%;
+  border:2px solid gray;
+}
 
 
 
