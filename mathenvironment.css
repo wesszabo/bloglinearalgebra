@@ -75,7 +75,7 @@ a:hover {
 
 .tools {
   float: right;
-  margin-top: 20px;
+  margin-top: 15px;
   width: 25%;
   /*border:2px solid gray; */
 }
@@ -272,6 +272,7 @@ img.scaled {
 	height:auto;
 	background-color: LightGreen;
 	padding:20px;
+	padding-bottom: 0px;
 	margin-top: 0px;
 	border-bottom:5px solid Black;
 	display:none;
