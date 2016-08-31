@@ -83,7 +83,7 @@ a:hover {
 
 .syllabus {
   border:2px solid gray !important;
-  background-color: DodgerBlue !important;  
+  background-color: PaleGoldenRod !important;  
 }
 
 .def {
@@ -91,7 +91,10 @@ a:hover {
   background-color:  Moccasin !important;  
 }
 
-
+.thm {
+  border:2px solid gray !important;
+  background-color: SkyBlue !important; 
+}
 /**********************************/
 .pbox {
   margin-left:auto;
