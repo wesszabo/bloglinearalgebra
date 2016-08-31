@@ -83,6 +83,8 @@ a:hover {
 .tools p.header {
 	font-style: normal;
         font-size: large;
+        font-weight: bold;
+        text-decoration: underline;
         padding-left: 0px;
         margin: 5px 0 5px 5px;
 }
