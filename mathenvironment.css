@@ -11,8 +11,11 @@ footer {
   display: block;
 }
 
-section {
+main {
   float: left;
+}
+
+section {
   padding: 5px 0;
   position: relative;
   width: 70%
