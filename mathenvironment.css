@@ -80,9 +80,15 @@ a:hover {
   /*border:2px solid gray; */
 }
 
+
+.syllabus {
+  border:2px solid gray !important;
+  background-color: DodgerBlue !important;  
+}
+
 .def {
   border:2px solid gray !important;
-  background-color: LightGreen !important;  
+  background-color:  Moccasin !important;  
 }
 
 
