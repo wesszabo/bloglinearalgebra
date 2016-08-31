@@ -130,6 +130,12 @@ a:hover {
   background-color: Teal !important; 
 }
 
+
+.video {
+  border:2px solid gray !important;
+  background-color: Chocolate !important; 
+}
+
 .biblio {
   border:2px solid gray !important;
   background-color: CornflowerBlue !important; 
