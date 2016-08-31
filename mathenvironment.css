@@ -75,7 +75,7 @@ a:hover {
 
 .tools {
   float: right;
-  margin-top: 50px;
+  margin-top: 40px;
   width: 25%;
   /*border:2px solid gray; */
 }
@@ -95,6 +95,29 @@ a:hover {
   border:2px solid gray !important;
   background-color: SkyBlue !important; 
 }
+
+.fig {
+  border:2px solid gray !important;
+  background-color: PaleTurquoise !important; 
+}
+
+.present {
+  border:2px solid gray !important;
+  background-color: LightYellow !important; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 /**********************************/
 .pbox {
   margin-left:auto;
@@ -205,11 +228,7 @@ div.figure {
   border: 1px black solid;
   padding: 5px;
 }
-#left {
-	float: left;
-}
-#right {
-	float: right;
+
 }
 div.figure p {
   text-align: left;
