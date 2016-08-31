@@ -13,14 +13,13 @@ footer {
 
 main {
   float: left;
-  padding: 5px 0;
    width: 70%;
 }
 
-/*section {
-  padding: 5px 0;
+section {
+  padding: 25px 0;
   position: relative;
-}*/
+}
 
 header {
   color: #007e99;
