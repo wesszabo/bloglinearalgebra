@@ -81,9 +81,10 @@ a:hover {
 }
 
 .tools p.header {
-	padding-left: 3px;
 	font-style: normal;
         font-size: large;
+        padding-left: 0px;
+        margin: 5px 0 5px 5px;
 }
 
 .syllabus {
