@@ -73,8 +73,7 @@ a:hover {
 .tools {
   float: right;
   padding: 5px 0;
-  position: relative;
-  width: 25%;
+  width: auto;
   border:2px solid gray;
 }
 
