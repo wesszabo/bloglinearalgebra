@@ -75,7 +75,7 @@ a:hover {
 
 .tools {
   float: right;
-  padding: 5px 0;
+  padding: 10px 0 0 0;
   width: 25%;
   border:2px solid gray;
 }
@@ -217,7 +217,10 @@ img.scaled {
 /*
 /* show-hide styling
 */
-#slidingDiv_1, #slidingDiv_2, #slidingDiv_3, #slidingDiv_4, #slidingDiv_5, #slidingDiv_6, #slidingDiv_7, #slidingDiv_8, #slidingDiv_9, #slidingDiv_10, #slidingDiv_11, #slidingDiv_12 {
+#slidingDiv_1, #slidingDiv_2, #slidingDiv_3, #slidingDiv_4, #slidingDiv_5, #slidingDiv_6, #slidingDiv_7, #slidingDiv_8, #slidingDiv_9, #slidingDiv_10, #slidingDiv_11, #slidingDiv_12, #slidingDiv_13, #slidingDiv_14, #slidingDiv_15, #slidingDiv_16, #slidingDiv_17, #slidingDiv_18, #slidingDiv_19, #slidingDiv_20, #slidingDiv_21, #slidingDiv_22, #slidingDiv_23, #slidingDiv_24, #slidingDiv_25, #slidingDiv_26, #slidingDiv_27, #slidingDiv_28, #slidingDiv_29, #slidingDiv_30, #slidingDiv_31, 
+/*    tools menu  */
+       #slidingDiv_101, #slidingDiv_102, #slidingDiv_103, #slidingDiv_104, #slidingDiv_105, #slidingDiv_106, #slidingDiv_107, #slidingDiv_108, #slidingDiv_109, #slidingDiv_110, #slidingDiv_111, #slidingDiv_112, #slidingDiv_113, #slidingDiv_114, #slidingDiv_115, #slidingDiv_116, #slidingDiv_117, #slidingDiv_118, #slidingDiv_119, #slidingDiv_120
+        {
 	height:auto;
 	background-color: LightGreen;
 	padding:20px;
