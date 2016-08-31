@@ -81,8 +81,8 @@ a:hover {
 }
 
 .def {
-  border:2px solid gray;
-  background-color: LightGreen;  
+  border:2px solid gray !important;
+  background-color: LightGreen !important;  
 }
 
 
