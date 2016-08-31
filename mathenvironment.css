@@ -101,7 +101,7 @@ a:hover {
   background-color: Coral !important; 
 }
 
-.fig {
+.graphic {
   border:2px solid gray !important;
   background-color: PaleTurquoise !important; 
 }
@@ -111,9 +111,15 @@ a:hover {
   background-color: LightYellow !important; 
 }
 
+.computer {
+  border:2px solid gray !important;
+  background-color: DarkSalmon !important; 
+}
 
-
-
+.history {
+  border:2px solid gray !important;
+  background-color: Teal !important; 
+}
 
 
 
