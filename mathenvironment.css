@@ -80,6 +80,11 @@ a:hover {
   /*border:2px solid gray; */
 }
 
+.tools p.header {
+	padding-left: 3px;
+	font-style: normal;
+        font-size: large;
+}
 
 .syllabus {
   border:2px solid gray !important;
